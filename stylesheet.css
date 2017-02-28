@@ -1,0 +1,98 @@
+a{
+float:right;
+}
+
+body{
+  background-color: lightgrey;
+  font-family: Roboto, arial, sans-serif;
+}
+
+
+body *{
+  background-color: white;
+  border: 20px;
+}
+
+#body{
+
+  position: absolute;
+
+
+}
+
+.logo{
+  background: grey;
+  height: 400px;
+}
+
+section{
+margin-top: 2%
+}
+header{
+  position:fixed;
+  background-color: white;
+  height: 50px;
+  width: 100%;
+  z-index: 1;
+
+}
+
+iframe{
+  width:100%;
+}
+
+#social{
+  margin:0;
+
+}
+
+
+.col{
+  position: absolute;
+    top: 50px;
+    margin: 10px;
+}
+
+.col > p{
+  display: inline;
+
+}
+#autoplay{
+float:right;
+
+}
+
+#left-body{
+
+  width: 60%;
+  background-color: lightgrey;
+
+}
+
+.comment{
+  margin:1%;
+  width:100%;
+}
+
+.comment a img{
+  float:left;
+}
+
+
+#right-body{
+width: 36%;
+right: 0px;
+
+}
+
+.sidebar{
+  width:100%
+}
+.side-bar-left{
+  float:left;
+
+}
+.side-bar-right{
+
+
+}
